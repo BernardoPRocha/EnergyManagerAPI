@@ -81,7 +81,7 @@ A aplicação utiliza **Spring Security com autenticação JWT**:
 
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/<seu-usuario>/EnergyManagerAPI.git
+git clone https://github.com/BernardoPRocha/EnergyManagerAPI.git
 cd EnergyManagerAPI
 ```
 
@@ -141,7 +141,7 @@ A aplicação iniciará em:
 
 #### Exemplo de Cabeçalho
 ```
-Authorization: Bearer SEU_TOKEN_AQUI
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc2MzAxMDg1NSwiZXhwIjoxNzYzMDQ2ODU1fQ.tnKvx9gGvfZJes91dDGhfPNQDYBobZVoalQBr2Wk-0s
 ```
 
 #### Exemplo de `POST /api/energy`
