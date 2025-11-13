@@ -91,7 +91,7 @@ Edite o arquivo `src/main/resources/application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/energy_db
 spring.datasource.username=root
-spring.datasource.password=suasenha
+spring.datasource.password=fiap1234
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
