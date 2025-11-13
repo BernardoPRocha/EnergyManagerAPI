@@ -129,6 +129,14 @@ A aplicação iniciará em:
 
 ---
 
+## 🧩 Fotos do MySQL 
+
+
+<img width="487" height="398" alt="image" src="https://github.com/user-attachments/assets/ecffb33e-0f81-4fa7-b7e4-51d431447155" />
+<img width="832" height="578" alt="image" src="https://github.com/user-attachments/assets/15f5bf41-d9f7-4b2a-a17d-3fc9918d8be3" />
+
+
+
 ### 🔸 Consumo de Energia (Protegido por JWT)
 
 | Método | Endpoint | Descrição |
