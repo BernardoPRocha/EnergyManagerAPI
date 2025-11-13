@@ -15,6 +15,11 @@ O sistema implementa autenticação JWT, controle de acesso por perfis e endpoin
 
 ---
 
+## LINK DO GITHUB 
+- [Link para o Github](https://github.com/BernardoPRocha/EnergyManagerAPI.git)
+
+---
+
 ## 🎯 Objetivo do Projeto
 
 O **EnergyManagerAPI** tem como objetivo oferecer uma estrutura simples e escalável para gerenciamento de dados de consumo energético.  
