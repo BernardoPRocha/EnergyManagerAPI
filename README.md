@@ -4,7 +4,15 @@ API desenvolvida para o projeto da disciplina **SOA & Web Services** (FIAP).
 O sistema implementa autenticação JWT, controle de acesso por perfis e endpoints REST seguros para o **gerenciamento de consumo de energia elétrica**.
 
 ---
+## Tema do projeto da GS 
 
+O Belong Work é uma plataforma digital inovadora que tem como missão promover inclusão e capacitação profissional para pessoas com deficiência (PCDs), facilitando o acesso ao mercado de trabalho por meio da tecnologia. O aplicativo conecta candidatos, empresas e programas de formação inclusiva, oferecendo trilhas personalizadas de aprendizado, oportunidades profissionais e acompanhamento do desenvolvimento de cada usuário.
+Para tornar essa experiência mais eficiente, o Belong Work utiliza Inteligência Artificial (IA) como aliada no processo de inclusão. Por meio de algoritmos de recomendação, a plataforma identifica trilhas de capacitação adequadas ao perfil, ritmo e necessidades do usuário, além de sugerir vagas compatíveis com suas habilidades e interesses. A IA também atua na acessibilidade, oferecendo assistentes virtuais, leitura de tela otimizada e recursos de linguagem natural que tornam o aprendizado mais acessível e adaptado a diferentes deficiências.
+
+<img width="430" height="324" alt="image" src="https://github.com/user-attachments/assets/2e0a9953-3328-4d04-ae59-a38691b135af" />
+
+
+---
 ## 👨‍💻 Integrantes do Grupo
 
 | Nome | RM |
